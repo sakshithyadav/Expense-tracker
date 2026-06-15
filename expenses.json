@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "amount": "555",
+        "category": "food",
+        "description": "chicken",
+        "date": "14-2-2332"
+    },
+    {
+        "id": 2,
+        "amount": 2334.0,
+        "category": "32",
+        "description": "34",
+        "date": "32"
+    },
+    {
+        "id": 3,
+        "amount": "333",
+        "category": "grocery",
+        "description": "home needs",
+        "date": "12-04-2020"
+    },
+    {
+        "id": 4,
+        "amount": 654.0,
+        "category": "food",
+        "description": "chicken",
+        "date": "12-22-3093"
+    }
+]
